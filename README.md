@@ -1,2 +1,4 @@
 # html
- curso HTML5
+ curso de HTML5
+
+ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
